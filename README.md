@@ -47,6 +47,11 @@ la señal de audio de nuestro celular, MP3, tablet, entre otros; este proyecto s
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+El circuito a implementar es el siguinete, se encuentra de forma esquematizada:
+
+![image](https://user-images.githubusercontent.com/104925648/221745108-94bdc590-05a3-4eb0-b63a-b0c3e77f8834.png)
+
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **1.¿Cuáles son las distintas clases de amplificadores?**
