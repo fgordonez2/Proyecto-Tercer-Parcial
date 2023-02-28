@@ -59,7 +59,7 @@ Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado:
 
 ![image](https://user-images.githubusercontent.com/104925648/221747125-3e93032a-404a-4d4a-b9cf-d578f27b17af.png)
 
-Paso 3: Conectamos la pata positiva del condensdor, a la pata 5 del circuito integrado:
+Paso 3: Conectamos la pata positiva del condensador, a la pata 5 del circuito integrado:
 
 ![image](https://user-images.githubusercontent.com/104925648/221747896-3d17c106-a500-4f34-a049-7fcec0fe6c0b.png)
 
