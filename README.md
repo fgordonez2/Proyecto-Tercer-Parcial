@@ -155,9 +155,10 @@ aunque en realidad no lo sea. De hecho, al potenciómetro logarítmico se le con
 
 ## 6. CONCLUSIONES
 
-*- EL principio de funcionamiento del circuito escalera es bastante facil de entender y de mucha utilidad para el control de seguridad en circuitos ya que proporciona una forma de controlar el voltaje que cruza por una coneccion completa mediante 2 controles directamente conectados y que necesitan polarizarse en conjunto para poder efectuar un paso de voltaje por el sistema, de lo contrario no cruzara y no existira ningun riesdo de electrocutamiento.
+*-El análisis y construcción del mini amplificador, se lo realizo con la única función de aumentar el nivel de una señal, aumentando la amplitud de la señal de entrada mediante circuitos electrónicos y  corrientes de polarización que incrementa la señal de salida en forma de sonido. Los componentes electrónicos usados para la elaboración de este proyecto son los más indicados y específicos para que el amplificador de sonido tenga un funcionamiento optimo.*
 
-*- Es necesario tomar las medidas de seguridad pertinentes al momento de trabajar con circuitos los cuales se conectaran de forma directa a una fuente de voltaje que presenta valores que pueden poner en riesgo la vida humana, por el mismo echo tambien se debe tener los conceptos basicos de como interactua la corriente con los objetos y su entorno bien claros. 
+*-Los amplificadores de sonido han sido y serán importantes en la vida cotidiana de cada persona, ya que se encuentran implementados desde los dispositivos mas pequeños como son nuestros celulares, equipos de sonido, TV, instalado en nuestro sistema de audio de nuestros vehículos, lo único diferente de cada uno son sus componentes, pero trabajan para cumplir la misma función que es aumentar la onda de sonido de entrada a una con mayor fuerza de salida.*
+
 
 ## 7. BIBLIOGRAFÍA
 
