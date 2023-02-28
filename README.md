@@ -167,3 +167,5 @@ aunque en realidad no lo sea. De hecho, al potenciómetro logarítmico se le con
 - Millman y Grabel. Microelectrónica. Mc Graw Hill. 1989.
 - Schnadower Baran I. . Circuitos electrónicos digitales. Mc Graw Hill. 1979
 - Sedra y Smith. Dispositivos Electrónicos y amplificación. Interamericana. 1992.
+
+
