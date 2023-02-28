@@ -151,6 +151,7 @@ aunque en realidad no lo sea. De hecho, al potenciómetro logarítmico se le con
 
 ## 5. VIDEO
 
+- https://youtu.be/WebY0Q5WWo4
 
 ## 6. CONCLUSIONES
 
