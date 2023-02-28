@@ -47,39 +47,39 @@ la señal de audio de nuestro celular, MP3, tablet, entre otros; este proyecto s
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-El circuito a implementar es el siguinete, se encuentra de forma esquematizada:
+**El circuito a implementar es el siguinete, se encuentra de forma esquematizada:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221745108-94bdc590-05a3-4eb0-b63a-b0c3e77f8834.png)
 
-Paso 1: Colocamos el circuito integrado, con la pequeña ranura hacia la izquierda:
+**Paso 1: Colocamos el circuito integrado, con la pequeña ranura hacia la izquierda:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221748628-cea0964a-5b29-409e-a1fb-8c8837f6537e.png)
 
-Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado:
+**Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221747125-3e93032a-404a-4d4a-b9cf-d578f27b17af.png)
 
-Paso 3: Conectamos la pata positiva del condensador, a la pata 5 del circuito integrado, y la negativa del condensador a cuaqluier punto:
+**Paso 3: Conectamos la pata positiva del condensador, a la pata 5 del circuito integrado, y la negativa del condensador a cuaqluier punto:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221747896-3d17c106-a500-4f34-a049-7fcec0fe6c0b.png)
 
-Paso 4: Colocamos el potenciómetro de 10k:
+**Paso 4: Colocamos el potenciómetro de 10k:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221748797-ed8ae675-2e28-4812-9cc1-94e040e3a639.png)
 
-Paso 5: Conectamos un cable de la pata 2 del circuito integrado, hasta la pata izquierda del potneciómetro:
+**Paso 5: Conectamos un cable de la pata 2 del circuito integrado, hasta la pata izquierda del potneciómetro:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221749453-63a375d0-158e-4161-ac53-a34fa8fc4f6d.png)
 
-Paso 6: Conectamos un cable de la pata 3 del circuito integrado, hasta la pata central del potenciómetro: 
+**Paso 6: Conectamos un cable de la pata 3 del circuito integrado, hasta la pata central del potenciómetro:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221750152-b054e4f8-b3d1-4e09-9418-8a40a44ad026.png)
 
-Paso 7: La pata derecha del potenciómetro y la pata 4 del circuito integrado serán la entrada de señal de audio; por lo que conectamos el plug cable:
+**Paso 7: La pata derecha del potenciómetro y la pata 4 del circuito integrado serán la entrada de señal de audio; por lo que conectamos el plug cable:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221751505-4b63a6fb-82bd-4367-af96-b326464556a6.png)
 
-Paso 8: Conectamos un cable de la pata 2 del circuito integrado, hasta el lado negativo de la protoboard:
+**Paso 8: Conectamos un cable de la pata 2 del circuito integrado, hasta el lado negativo de la protoboard:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221752329-568d1890-816f-4388-a6e8-25a5661bdd00.png)
 
@@ -87,11 +87,13 @@ Paso 9: Conectamos un cable de la pata 6 del circuito integrado, hasta el lado p
 
 ![image](https://user-images.githubusercontent.com/104925648/221752747-272a47c9-5bc7-488c-87ef-0a1dc3d4e7dd.png)
 
-Paso 10: Conectamos la bocina, un cable al lado negativo del condensador y el otro cable de la bocina a la pata 4 del circuito integrado:
+**Paso 10: Conectamos la bocina, un cable al lado negativo del condensador y el otro cable de la bocina a la pata 4 del circuito integrado:**
 
 ![image](https://user-images.githubusercontent.com/104925648/221753597-68adff3d-362f-4850-b313-202312e56ef8.png)
 
-Paso 11:
+**Paso 11: Conectamos la fuente de voltaje a 9.5 V, y de igual forma nuestro reproductor de música (teléfono celular):**
+
+![image](https://user-images.githubusercontent.com/104925648/221756047-6af0fc20-1dcb-49c5-ab61-43b7118c5e4a.png)
 
 
 
@@ -146,15 +148,6 @@ aunque en realidad no lo sea. De hecho, al potenciómetro logarítmico se le con
 - *La bobina produce corriente eléctrica que genera un campo magnético que a su vez interactúa con el campo del imán, haciendo que vibre la membrana.*
 - *Cuando vibra la membrana, el aire que está frente a ella se mueve causando vibraciones de presión, o lo que perciben los oídos: Ondas sonoras.*
 - *De acuerdo a las variaciones que tenga el voltaje de entrada, el cono ira vibrando y causando las perturbaciones resultantes en el aire.*
-
-
-
-
-
-
-
-
-
 
 ## 5. VIDEO
 
