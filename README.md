@@ -55,6 +55,11 @@ Paso 1: Colocamos el circuito integrado, con la pequeña ranura hacia la izquier
 
 ![image](https://user-images.githubusercontent.com/104925648/221746523-2efe6d50-5a8c-426e-b4a3-84562efb9f6f.png)
 
+Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado:
+
+![image](https://user-images.githubusercontent.com/104925648/221747125-3e93032a-404a-4d4a-b9cf-d578f27b17af.png)
+
+
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
