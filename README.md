@@ -53,7 +53,7 @@ El circuito a implementar es el siguinete, se encuentra de forma esquematizada:
 
 Paso 1: Colocamos el circuito integrado, con la pequeña ranura hacia la izquierda:
 
-![image](https://user-images.githubusercontent.com/104925648/221746523-2efe6d50-5a8c-426e-b4a3-84562efb9f6f.png)
+![image](https://user-images.githubusercontent.com/104925648/221748628-cea0964a-5b29-409e-a1fb-8c8837f6537e.png)
 
 Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado:
 
@@ -62,6 +62,22 @@ Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado:
 Paso 3: Conectamos la pata positiva del condensador, a la pata 5 del circuito integrado, y la negativa del condensador a cuaqluier punto:
 
 ![image](https://user-images.githubusercontent.com/104925648/221747896-3d17c106-a500-4f34-a049-7fcec0fe6c0b.png)
+
+Paso 4: Colocamos el potenciómetro de 10k:
+
+![image](https://user-images.githubusercontent.com/104925648/221748797-ed8ae675-2e28-4812-9cc1-94e040e3a639.png)
+
+Paso 5: Conectamos un cable de la pata 2 del circuito integrado, hasta la pata izquierda del potneciómetro:
+
+![image](https://user-images.githubusercontent.com/104925648/221749453-63a375d0-158e-4161-ac53-a34fa8fc4f6d.png)
+
+Paso 6: Conectamos un cable de la pata 3 del circuito integrado, hasta la pata central del potenciómetro: 
+
+![image](https://user-images.githubusercontent.com/104925648/221750152-b054e4f8-b3d1-4e09-9418-8a40a44ad026.png)
+
+Paso 7: La pata derecha del potenciómetro y la pata 4 del circuito integrado serán la entrada de señal de audio; por lo que conectamos el plug cable:
+
+![image](https://user-images.githubusercontent.com/104925648/221751505-4b63a6fb-82bd-4367-af96-b326464556a6.png)
 
 
 
