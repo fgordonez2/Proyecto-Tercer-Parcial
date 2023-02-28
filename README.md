@@ -49,7 +49,7 @@ la señal de audio de nuestro celular, MP3, tablet, entre otros; este proyecto s
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-1.¿Cuáles son las distintas clases de amplificadores?
+**1.¿Cuáles son las distintas clases de amplificadores?**
 
 *Hay varias clases de amplificadores diferentes, cada una de las cuales está desarrollada para adaptarse a una situación diferente o a 
 un conjunto diferente de pretensiones de audio. Compra con la tecnología más avanzada en amplificadores. Nuestros modelos te dejan conectar 
@@ -58,11 +58,11 @@ Para publidifusión o conéctales bocinas para voceo de personal o música ambie
 y práctica merced a su batería de larga duración que te permitirá de 6 a 8 horas de empleo con un micrófono de mano o una diadema si escoges sostener 
 la movilidad de tus extremidades. Cuando requieras alta fidelidad, y desees que en alta o baja potencia genere sonidos nitidos y sin distorsion.*
 
-2.¿Cuáles son las partes de un condensador electrolítico?
+**2.¿Cuáles son las partes de un condensador electrolítico?**
 
 ![image](https://user-images.githubusercontent.com/104925648/221743039-f7425d1e-a547-4f07-90a0-aaaa64ccf9d8.png)
 
-3. ¿Qué tipos de condensadores existen?
+**3. ¿Qué tipos de condensadores existen?**
 
 ![image](https://user-images.githubusercontent.com/104925648/221743385-de867f25-e012-4e96-a3ef-c547ae970c9c.png)
 
@@ -80,7 +80,7 @@ Supercondensador
 Condensador de Mica
 Condensador Variable*
 
-4.¿Cuáles son las diferencias entre potenciómetros lineales y logarítmicos?
+**4.¿Cuáles son las diferencias entre potenciómetros lineales y logarítmicos?**
 
 *Los potenciómetros logarítmicos, funcionan diferente a los lineales y por eso, los sentimos diferentes. 
 El aumento o disminución en estos potenciómetros, es, justamente, una curva logarítmica.
@@ -91,7 +91,7 @@ aunque en realidad no lo sea. De hecho, al potenciómetro logarítmico se le con
 
 ![image](https://user-images.githubusercontent.com/104925648/221743948-7cdf5748-e433-400a-acab-8a28ffd8a6b7.png)
 
-5. ¿Qué sucede dentro del amplificador de sonido?
+**5. ¿Qué sucede dentro del amplificador de sonido?**
 
 - *Al aplicar sobre la bobina la señal eléctrica que procede de algún equipo, se forma un campo magnético que se modifica de acuerdo a la señal.*
 - *En el entrehierro del imán hay una bobina de hilo cilíndrica que se une al diafragma.*
@@ -120,3 +120,7 @@ aunque en realidad no lo sea. De hecho, al potenciómetro logarítmico se le con
 ## 7. BIBLIOGRAFÍA
 
 - Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
+- Horenstein Mark N. Microelectrónica circuitos y dispositivos. 2a. Ed. Prentice Hall, 1997.
+- Millman y Grabel. Microelectrónica. Mc Graw Hill. 1989.
+- Schnadower Baran I. . Circuitos electrónicos digitales. Mc Graw Hill. 1979
+- Sedra y Smith. Dispositivos Electrónicos y amplificación. Interamericana. 1992.
