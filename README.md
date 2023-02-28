@@ -51,6 +51,11 @@ El circuito a implementar es el siguinete, se encuentra de forma esquematizada:
 
 ![image](https://user-images.githubusercontent.com/104925648/221745108-94bdc590-05a3-4eb0-b63a-b0c3e77f8834.png)
 
+Paso 1: Colocamos el circuito integrado, con la pequeña ranura hacia la izquierda:
+
+![image](https://user-images.githubusercontent.com/104925648/221746523-2efe6d50-5a8c-426e-b4a3-84562efb9f6f.png)
+
+
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
