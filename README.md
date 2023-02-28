@@ -49,6 +49,18 @@ la señal de audio de nuestro celular, MP3, tablet, entre otros; este proyecto s
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+1. ¿Cuáles son las distintas clases de amplificadores?
+Hay varias clases de amplificadores diferentes, cada una de las cuales está desarrollada para adaptarse a una situación diferente o a 
+un conjunto diferente de pretensiones de audio. Compra con la tecnología más avanzada en amplificadores. Nuestros modelos te dejan conectar 
+cualquier dispositivo de reproducción, como tu laptop, móvil inteligente o tablet y asimismo micrófonos para que armes la celebración en grande. 
+Para publidifusión o conéctales bocinas para voceo de personal o música ambiental los Amplificadores portátiles Steren son una solución económica 
+y práctica merced a su batería de larga duración que te permitirá de 6 a 8 horas de empleo con un micrófono de mano o una diadema si escoges sostener 
+la movilidad de tus extremidades. Cuando requieras alta fidelidad, y desees que en alta o baja potencia genere sonidos nitidos y sin distorsion.
+
+2. ¿Cuáles son las partes de un condensador en general?
+
+
+
 ## 5. VIDEO
 
 
