@@ -79,6 +79,19 @@ Paso 7: La pata derecha del potenciómetro y la pata 4 del circuito integrado se
 
 ![image](https://user-images.githubusercontent.com/104925648/221751505-4b63a6fb-82bd-4367-af96-b326464556a6.png)
 
+Paso 8: Conectamos un cable de la pata 2 del circuito integrado, hasta el lado negativo de la protoboard:
+
+![image](https://user-images.githubusercontent.com/104925648/221752329-568d1890-816f-4388-a6e8-25a5661bdd00.png)
+
+Paso 9: Conectamos un cable de la pata 6 del circuito integrado, hasta el lado positivo de la protoboard:
+
+![image](https://user-images.githubusercontent.com/104925648/221752747-272a47c9-5bc7-488c-87ef-0a1dc3d4e7dd.png)
+
+Paso 10: Conectamos la bocina, un cable al lado negativo del condensador y el otro cable de la bocina a la pata 4 del circuito integrado:
+
+![image](https://user-images.githubusercontent.com/104925648/221753597-68adff3d-362f-4850-b313-202312e56ef8.png)
+
+Paso 11:
 
 
 
