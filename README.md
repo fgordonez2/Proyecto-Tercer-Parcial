@@ -10,15 +10,16 @@ Integrantes:
 
 ***General***
 
-*Implementar un circuito de mayor esccalar visto desde el plano eléctrico en este caso "Circuito de 3 vías", para conocer sus resepctivas conexiones como fase, neutro  y tierra, mediante la investigación y los conocimientos adquiridos hasta hoy*
+*Elaborar un circuito de baja potencia 0.2 watts(Mini Amplificador De Audio Casero), mediante la implementación de materiales básicos, para elevar 
+la señal de audio de nuestro celular, MP3, tablet, entre otros; este proyecto se ayuda con los conocimientos adquiridos en clase hasta hoy*
 
 ***Especificos***
 
-*Explicar porqué no se necesita conexión a tierra en este tipo de circuitos*
+*Explicar el funcionamiento del circuito (Mini Amplificador De Audio Casero)*
 
-*Analizar las conexiones fase, neutro y tierra*
+*Analizar las conexiones realizadas en el circuito*
 
-*Justificar la implementación de dicho circuito en la vida real, como en edificios, empresas, entre otros* 
+*Justificar la implementación de dicho circuito en la vida real* 
 
 ## 2. MARCO TEÓRICO
 
@@ -59,8 +60,4 @@ Integrantes:
 
 ## 7. BIBLIOGRAFÍA
 
-- Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
-- Categoría: Consejos Prácticos, Seguridad Industrial. Por Electricistas de la Fuente: 22 enero, 2018
-- Raúl Cardete: Ingeniero Técnico en Ingeniería Industrial especialidad Electricidad. Experiencia en instalaciones eléctricas de BT - AT y automatización, sistemas       eléctricos de potencia y energías renovables
-
-
+- Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
